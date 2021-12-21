@@ -1,4 +1,4 @@
-# multifocus-image-fusion-
+# multifocus-image-fusion-  for public release
 this is the matlab code for the paper "sparse representation based multifocus image fusion in spatial domain"
 
 the method mainly contains the following two steps:
