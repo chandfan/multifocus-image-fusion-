@@ -1,3 +1,4 @@
+% for public release
 function [fullscore]=my_if(A,B,D,overlap,epsilon)
 %    SR
 %    Input:
