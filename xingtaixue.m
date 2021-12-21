@@ -1,3 +1,4 @@
+%% public release. for paper:mulatifocus image fusion
 function [scomap,sc1,myll]=xingtaixue(fullscore)
 sc1=1-fullscore>.5;
 sc1=imfill(sc1,'holes');
